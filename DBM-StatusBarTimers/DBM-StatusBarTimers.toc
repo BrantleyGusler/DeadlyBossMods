@@ -16,6 +16,6 @@
 ## SavedVariables: DBT_AllPersistentOptions
 ## LoadOnDemand: 0
 ## DefaultState: enabled
-## X-Website: http://www.deadlybossmod.com
+## X-Website: http://www.deadlybossmods.com
 
 DBT.lua
